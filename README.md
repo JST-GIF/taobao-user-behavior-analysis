@@ -8,6 +8,7 @@
 Python（pandas / matplotlib）：分块读取、抽样、清洗、可视化
 MySQL：数据入库、窗口函数计算留存
 Jupyter Notebook
+Tableau
 
 分析流程
 数据抽样：分块读取，按用户维度随机抽样1万人
@@ -19,3 +20,4 @@ Jupyter Notebook
 notebooks/ ：Jupyter 分析笔记本
 sql/ ：建表与查询脚本
 data/ ：数据下载说明（数据量大不入库）
+Tableau可视化链接：https://public.tableau.com/views/_17902206378000/1_1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
